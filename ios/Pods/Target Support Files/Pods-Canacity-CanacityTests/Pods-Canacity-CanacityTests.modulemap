@@ -1,0 +1,6 @@
+module Pods_Canacity_CanacityTests {
+  umbrella header "Pods-Canacity-CanacityTests-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,14 @@
+com/softapps/canacity/MainActivity.java
+ com.softapps.canacity.MainActivity
+com/softapps/canacity/BuildConfig.java
+ com.softapps.canacity.BuildConfig
+com/softapps/canacity/MainApplication.java
+ com.softapps.canacity.MainApplication
+ com.softapps.canacity.MainApplication$1
+com/softapps/canacity/ReactNativeFlipper.java
+ com.softapps.canacity.ReactNativeFlipper
+ com.softapps.canacity.ReactNativeFlipper$1
+ com.softapps.canacity.ReactNativeFlipper$2
+ com.softapps.canacity.ReactNativeFlipper$2$1
+com/facebook/react/PackageList.java
+ com.facebook.react.PackageList

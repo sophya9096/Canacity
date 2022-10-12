@@ -1,0 +1,6 @@
+module Pods_Canacity {
+  umbrella header "Pods-Canacity-umbrella.h"
+
+  export *
+  module * { export * }
+}

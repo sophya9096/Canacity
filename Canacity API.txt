@@ -1,0 +1,49 @@
+Site Link: https://liberal-chicken.10web.me/
+
+===== USER REGISTER =====
+
+Endpoint:
+/wp-json/wc/v3/customers
+
+Consumer key	
+ck_2478a5170f75f45dcf9514126067be2dab2b1b94
+
+Consumer secret	
+cs_023ef065e096a004f1334c289f8498863142a356
+
+Params:
+username: USERNAME
+email: EMAIL
+password: PASSWORD
+
+
+===== USER LOGIN =====
+
+Endpoint:
+?rest_route=/login/v1/auth
+
+Params:
+&email=CUSTOMER EMAIL
+&password=CUSTOMER PASSWORD
+
+
+===== WOCOMMERCE =====
+
+
+REST_API Endpoint Route: /wp-json/wc/v3/
+
+Consumer key	
+ck_2478a5170f75f45dcf9514126067be2dab2b1b94
+
+Consumer secret	
+cs_023ef065e096a004f1334c289f8498863142a356
+
+
+Docs for API
+https://woocommerce.github.io/woocommerce-rest-api-docs/
+
+Allowed: Read/Write
+
+Requests Allowed: POST, GET, PUT, DELETE
+
+Requests Needed: POST, GET
